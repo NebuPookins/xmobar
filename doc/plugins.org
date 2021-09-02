@@ -1144,7 +1144,7 @@ something like:
  - Default template: =<station>: <tempC>C, rh <rh>% (<hour>)=
  - Retrieves weather information from http://tgftp.nws.noaa.gov. Here is
    an [[https://tgftp.nws.noaa.gov/data/observations/metar/decoded/CYLD.TXT][example]], also showcasing the kind of information that may be
-   extracted.
+   extracted. Here is [[https://weather.rap.ucar.edu/surface/stations.txt][a sample list of station IDs]].
 
 *** =WeatherX StationID SkyConditions Args RefreshRate=
 
